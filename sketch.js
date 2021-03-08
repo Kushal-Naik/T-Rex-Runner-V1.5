@@ -125,7 +125,7 @@ function draw() {
     //text("Life: "+ life, displayWidth-100,40)
 
     fill(0,255,255);
-    text("T-REX RUNNER V1.0", 10, ground.y+30);
+    text("T-REX RUNNER V1.5", 10, ground.y+30);
     text("- by KUSHAL NAIK", displayWidth-140, ground.y+30);
   }
   if (gameState===PLAY){
